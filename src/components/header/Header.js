@@ -13,8 +13,7 @@ import {
   DropdownItem,
   Modal,
   ModalHeader,
-  ModalBody,
-  ModalFooter,
+  ModalBody
 } from "reactstrap";
 
 import CreatePlayer from '../create-player/CreatePlayer';
